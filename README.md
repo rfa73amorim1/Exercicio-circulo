@@ -15,3 +15,4 @@ e) Um método Circunferência() que calcula e retorna a circunferência do círc
 f) Um método aumentarRaio() que recebe um valor Double e o usa como percentual para aumentar o raio do círculo;
 
 **Crie uma classe contendo o método main() para testar a funcionalidade da Classe Circulo.**
+#### linkedin.com/in/rogério-fidélis-amorim-72a9621b3
